@@ -1,4 +1,4 @@
 def multiply(a,b):
-    return a*b
+  return a+b
 
-   print(multiply(2,14))
+print(multiply(10,20))
